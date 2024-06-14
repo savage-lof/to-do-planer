@@ -1,0 +1,13 @@
+@media (width <= 320px) {
+    
+}
+
+.calendar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    --rdp-accent-color: rgb(199,159,239) !important;
+    --rdp-background-color: rgba(199, 159, 239, 0.254) !important;
+    
+}
+
